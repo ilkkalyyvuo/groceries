@@ -1,6 +1,6 @@
-# groceries
+# mighty_groceries
 
-A Flutter project for managing daily groceries.
+A new Flutter project.
 
 ## Getting Started
 

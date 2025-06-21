@@ -1,6 +1,6 @@
 {
-    "name": "groceries",
-    "short_name": "groceries",
+    "name": "mighty_groceries",
+    "short_name": "mighty_groceries",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
